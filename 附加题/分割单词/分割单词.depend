@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555989135 source:c:\users\葛苏健\desktop\c\附加题\分割单词\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

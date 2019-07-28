@@ -1,0 +1,12 @@
+Hello world.
+Hello every one.
+Let us go.
+abc  abcdfg  abcdf  abcdfa 
+
+
+
+Network	Working	Group						  J. Moy
+Request	for Comments: 2328		     Ascend Communications, Inc.
+STD: 54							      April 1998
+Obsoletes: 2178
+Category: Standards Track
